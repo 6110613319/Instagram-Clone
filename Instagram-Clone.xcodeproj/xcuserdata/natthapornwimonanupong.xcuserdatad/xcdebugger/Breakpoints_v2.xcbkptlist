@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CE79CF51-BC5C-4EDD-8CDD-0375BF906054"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D651544-DF1E-4B97-A710-CF326CC65E9B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Instagram-Clone/Utils/CustomTextField.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CustomTextField"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "0D651544-DF1E-4B97-A710-CF326CC65E9B - c74430d0d4a8cca8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram_Clone.CustomTextField.text.getter : Swift.String"
+                  moduleName = "Instagram-Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natthapornwimonanupong/Documents/Instagram-Clone/Instagram-Clone/Utils/CustomTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "237">
+               </Location>
+               <Location
+                  uuid = "0D651544-DF1E-4B97-A710-CF326CC65E9B - b26d8e317dd1dcd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram_Clone.CustomTextField.text.setter : Swift.String"
+                  moduleName = "Instagram-Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natthapornwimonanupong/Documents/Instagram-Clone/Instagram-Clone/Utils/CustomTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "241">
+               </Location>
+               <Location
+                  uuid = "0D651544-DF1E-4B97-A710-CF326CC65E9B - 16e83699c6b9f651"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram_Clone.CustomTextField.text.modify : Swift.String"
+                  moduleName = "Instagram-Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natthapornwimonanupong/Documents/Instagram-Clone/Instagram-Clone/Utils/CustomTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "0D651544-DF1E-4B97-A710-CF326CC65E9B - d43aa5f4cca1e6d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram_Clone.CustomTextField.text.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Instagram-Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natthapornwimonanupong/Documents/Instagram-Clone/Instagram-Clone/Utils/CustomTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "0D651544-DF1E-4B97-A710-CF326CC65E9B - 513767d7986a65ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Instagram_Clone.CustomTextField.$text.getter : SwiftUI.Binding&lt;Swift.String&gt;"
+                  moduleName = "Instagram-Clone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natthapornwimonanupong/Documents/Instagram-Clone/Instagram-Clone/Utils/CustomTextField.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
